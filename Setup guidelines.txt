@@ -1,0 +1,25 @@
+----------------------------Vietnamese----------------------------
+code . (mở VSC ở trang này)
+python3 -m venv venv (Tạo Virtual environment trong python có tên là venv)
+venv/bin/activate (kích hoạt venv)
+
+
+pip list (gom pip version)
+
+pip install --upgrade pip(upgrade pip len phien ban tot nhat)
+
+(tạo một file.txt và ghi 2 dòng gồm: requests, beautifulsoup4, playwright, pandas )
+Sau khi làm xong bước trên ta quay lại cmd gõ:pip install -r requirements.txt (để tải những thư viện cần thiết).
+
+
+----------------------------English----------------------------
+code . (open VSCode in this directory)
+python3 -m venv venv (Create a Python Virtual environment named venv)
+venv/bin/activate (Activate the virtual environment)
+
+pip list (display the current pip version)
+
+pip install --upgrade pip (upgrade pip to the latest version)
+
+(create a file called requirements.txt and write the following two lines: requests, beautifulsoup4, playwright, pandas)
+After completing the above step, return to the command line and type: pip install -r requirements.txt (to install the necessary libraries).
